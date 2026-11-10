@@ -6,8 +6,9 @@ export const DEFAULTS = {
     availability: "Open to new opportunities",
     tagline:
       "I bring in clients and understand how to build what they need. B2B sales strategy backed by real web development experience.",
-    photo: "/images/profile.jpg",
-    photo2: "",
+    photo: "/images/sakib-portrait.webp",
+    photo2: "/images/sakib-about.webp",
+    ctaImage: "/images/office-team.webp",
     banner: "",
     about:
       "Business Development & Tech Sales Specialist with a background in Web Development. I understand both the technical and business sides of digital projects, which lets me turn a client's idea into a clear proposal and then into a working website.",
@@ -373,14 +374,14 @@ export const DEFAULTS = {
       title: "Sales Excellence Award",
       when: "Q4 2025",
       org: "SardarIT Solutions",
-      img: "",
+      img: "/images/sales-excellence-q4-2025.webp",
     },
     {
       id: 2,
       title: "Sales Excellence Award",
       when: "Q3 2025",
       org: "SardarIT Solutions",
-      img: "",
+      img: "/images/sales-excellence-q3-2025.webp",
     },
     {
       id: 3,
@@ -416,28 +417,60 @@ export const DEFAULTS = {
   gallery: [
     {
       id: 1,
-      img: "",
-      caption: "Team moments",
+      img: "/images/speaking-with-the-team.webp",
+      caption: "Speaking with the team",
+      category: "Speaking",
+      description:
+        "Sharing ideas and addressing colleagues during a team gathering.",
     },
     {
       id: 2,
-      img: "",
-      caption: "Client meetings",
+      img: "/images/team-discussion.webp",
+      caption: "Conversations that move work forward",
+      category: "Collaboration",
+      description: "A focused discussion around the table with colleagues.",
     },
     {
       id: 3,
-      img: "",
-      caption: "Award ceremony",
+      img: "/images/award-presentation.webp",
+      caption: "Celebrating professional milestones",
+      category: "Recognition",
+      description: "A moment of recognition shared with colleagues.",
     },
     {
       id: 4,
-      img: "",
-      caption: "Workspace",
+      img: "/images/office-team.webp",
+      caption: "The people behind the work",
+      category: "Collaboration",
+      description: "Coming together with the team in the office.",
     },
     {
       id: 5,
-      img: "",
-      caption: "Events",
+      img: "/images/team-gathering.webp",
+      caption: "Together at the workplace",
+      category: "Collaboration",
+      description: "A team gathering and a shared moment at the office.",
+    },
+    {
+      id: 6,
+      img: "/images/team-dinner.webp",
+      caption: "Good conversations beyond the desk",
+      category: "Team life",
+      description: "Spending time with colleagues over a shared meal.",
+    },
+    {
+      id: 7,
+      img: "/images/team-outing.webp",
+      caption: "A change of scene, together",
+      category: "Team life",
+      description: "Time outside the office with the team.",
+    },
+    {
+      id: 8,
+      img: "/images/working-together.webp",
+      caption: "Everyday teamwork",
+      category: "Collaboration",
+      description: "A candid moment with colleagues at the workspace.",
     },
   ],
   works: [
@@ -450,7 +483,7 @@ export const DEFAULTS = {
       purpose:
         "Built to give a digital studio a public presence and a practical operations workspace: showcase services, collect inquiries, manage content, and coordinate client work.",
       tech: "React, Node.js, Express, MongoDB, Tailwind CSS, Firebase",
-      img: "",
+      img: "/previews/1-0.webp",
       live: "https://cosmobit-labs-studio.netlify.app",
       repo: "https://github.com/Hossain-sakib/cosmobit-lab-client",
       features: [
@@ -471,7 +504,7 @@ export const DEFAULTS = {
       purpose:
         "Developed to help a property company present its projects clearly, guide prospective buyers through available properties, and manage website content and inquiries from a central CMS.",
       tech: "React, TypeScript, Vite, Tailwind CSS, Node.js, Express",
-      img: "",
+      img: "/previews/2-0.webp",
       live: "https://hiroshimabd.com",
       repo: "https://github.com/Hossain-sakib/hiroshima-properties-frontend",
       features: [
@@ -492,7 +525,7 @@ export const DEFAULTS = {
       purpose:
         "Built to explore a complete shopping flow: browse brands, discover products, sign in, and manage a personal cart. It also provides forms for maintaining product listings.",
       tech: "React, Node.js, Tailwind CSS, Firebase",
-      img: "",
+      img: "/previews/3-0.webp",
       live: "https://flavor-voyage.netlify.app",
       repo: "https://github.com/Hossain-sakib/FlavorVoyage---client",
       features: [
@@ -501,7 +534,7 @@ export const DEFAULTS = {
         "Product creation and update forms",
         "Email and Google sign-in with responsive layouts",
       ],
-      previewPaths: ["/", "/signIn", "/signUp"],
+      previewPaths: ["/", "/products/bd-mojo", "/products/bd-speed"],
       shots: [],
     },
     {
@@ -513,7 +546,7 @@ export const DEFAULTS = {
       purpose:
         "Developed to make collaborative learning practical by connecting assignment creation, submissions, and peer grading in one accessible web application.",
       tech: "React, Node.js, Express, MongoDB, Tailwind CSS, Firebase",
-      img: "",
+      img: "/previews/4-0.webp",
       live: "https://studybuddy-hub.netlify.app",
       repo: "https://github.com/Hossain-sakib/StudyBuddyHub-client",
       features: [
@@ -522,7 +555,7 @@ export const DEFAULTS = {
         "Peer grading and submission management",
         "Google authentication and responsive pages",
       ],
-      previewPaths: ["/", "/allassignments", "/signin"],
+      previewPaths: ["/", "/#explore", "/#learn-together"],
       shots: [],
     },
   ],
@@ -568,6 +601,7 @@ export const DEFAULTS = {
       ],
     },
   ],
+  linkedinPosts: [],
 };
 export const LINKS = {
   email: "Hossain.sakib.x@gmail.com",

@@ -84,7 +84,13 @@ mediaRouter.delete("/media/:id", async (req, res) => {
   const content = await req.db
     .collection("content")
     .findOne({ _id: "portfolio" });
-  if (JSON.stringify([content.draft, content.published]).includes(row.url))
+  if (
+    JSON.stringify([content.draft, content.published]).includes(row.url) ||
+    (row.localPath &&
+      JSON.stringify([content.draft, content.published]).includes(
+        row.localPath,
+      ))
+  )
     throw new HttpError(
       409,
       "This image is used in your content. Remove its references and publish before deleting.",

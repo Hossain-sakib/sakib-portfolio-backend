@@ -1,3 +1,4 @@
+import { seedMedia } from "./seed-media.js";
 import { MongoClient } from "mongodb";
 import { DEFAULTS, LINKS } from "./defaults.js";
 let connection;
@@ -43,5 +44,6 @@ async function connect() {
     },
     { upsert: true },
   );
+  await seedMedia(db);
   return db;
 }

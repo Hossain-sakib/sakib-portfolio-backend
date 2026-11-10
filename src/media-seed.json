@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "276b239c-023c-44a2-a6cb-e477c262bbbc",
+    "name": "award-presentation.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344838/sakib-portfolio/curated/award-presentation.webp",
+    "publicId": "sakib-portfolio/curated/award-presentation",
+    "size": 142036,
+    "mime": "image/webp",
+    "created_at": "2026-11-10T21:07:18.643Z"
+  },
+  {
+    "_id": "18628c96-4414-40da-9104-6da02bd8d9ff",
+    "name": "office-team.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344839/sakib-portfolio/curated/office-team.webp",
+    "publicId": "sakib-portfolio/curated/office-team",
+    "size": 91080,
+    "mime": "image/webp",
+    "created_at": "2026-11-10T21:07:19.988Z"
+  },
+  {
+    "_id": "599b8c2d-8ac3-4df9-82df-d0b8ba5816b6",
+    "name": "sakib-about.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344840/sakib-portfolio/curated/sakib-about.webp",
+    "publicId": "sakib-portfolio/curated/sakib-about",
+    "size": 32900,
+    "mime": "image/webp",
+    "created_at": "2026-11-10T21:07:21.350Z"
+  },
+  {
+    "_id": "1dd09474-a27c-44a6-bd07-6e2a28b59759",
+    "name": "sakib-portrait.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344842/sakib-portfolio/curated/sakib-portrait.webp",
+    "publicId": "sakib-portfolio/curated/sakib-portrait",
+    "size": 52552,
+    "mime": "image/webp",
+    "created_at": "2026-11-10T21:07:22.596Z"
+  },
+  {
+    "_id": "5fce4658-7b83-42b4-af8f-d0d4f24d808a",
+    "name": "sales-excellence-q3-2025.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344843/sakib-portfolio/curated/sales-excellence-q3-2025.webp",
+    "publicId": "sakib-portfolio/curated/sales-excellence-q3-2025",
+    "size": 49374,
+    "mime": "image/webp",
+    "created_at": "2026-11-10T21:07:23.902Z"
+  },
+  {
+    "_id": "62a6bafb-4135-477b-9a2c-86dfb8b8ab25",
+    "name": "sales-excellence-q4-2025.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344844/sakib-portfolio/curated/sales-excellence-q4-2025.webp",
+    "publicId": "sakib-portfolio/curated/sales-excellence-q4-2025",
+    "size": 58324,
+    "mime": "image/webp",
+    "created_at": "2026-11-10T21:07:25.216Z"
+  },
+  {
+    "_id": "d9300c9c-aa17-4b00-a3d7-4a15276aa67a",
+    "name": "speaking-with-the-team.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344845/sakib-portfolio/curated/speaking-with-the-team.webp",
+    "publicId": "sakib-portfolio/curated/speaking-with-the-team",
+    "size": 69170,
+    "mime": "image/webp",
+    "created_at": "2026-11-10T21:07:26.143Z"
+  },
+  {
+    "_id": "cfa81436-3e83-46b0-adcd-02adf61720fc",
+    "name": "team-dinner.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344847/sakib-portfolio/curated/team-dinner.webp",
+    "publicId": "sakib-portfolio/curated/team-dinner",
+    "size": 246202,
+    "mime": "image/webp",
+    "created_at": "2026-11-10T21:07:27.552Z"
+  },
+  {
+    "_id": "a05fbd9d-8e9c-49f0-a770-42c62ffc278d",
+    "name": "team-discussion.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344847/sakib-portfolio/curated/team-discussion.webp",
+    "publicId": "sakib-portfolio/curated/team-discussion",
+    "size": 48932,
+    "mime": "image/webp",
+    "created_at": "2026-11-10T21:07:28.240Z"
+  },
+  {
+    "_id": "18b56446-3c8d-4314-8ff4-76bc060eec7b",
+    "name": "team-gathering.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344848/sakib-portfolio/curated/team-gathering.webp",
+    "publicId": "sakib-portfolio/curated/team-gathering",
+    "size": 243084,
+    "mime": "image/webp",
+    "created_at": "2026-11-10T21:07:29.508Z"
+  },
+  {
+    "_id": "86307a87-afd2-4ba1-a5da-43c3b802d92e",
+    "name": "team-outing.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344849/sakib-portfolio/curated/team-outing.webp",
+    "publicId": "sakib-portfolio/curated/team-outing",
+    "size": 153848,
+    "mime": "image/webp",
+    "created_at": "2026-11-10T21:07:30.300Z"
+  },
+  {
+    "_id": "d4d50be5-13cf-4013-81aa-669a2257f365",
+    "name": "working-together.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344850/sakib-portfolio/curated/working-together.webp",
+    "publicId": "sakib-portfolio/curated/working-together",
+    "size": 109042,
+    "mime": "image/webp",
+    "created_at": "2026-11-10T21:07:31.448Z"
+  }
+]

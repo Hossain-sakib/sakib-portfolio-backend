@@ -54,3 +54,5 @@ npm audit --omit=dev
 ```
 
 Tests cover password hashing, input/URL validation, every protected resource, malformed requests, and security headers. Configure Atlas backups, monitor function failures, rotate credentials shared outside secure settings, and review dependency updates regularly. Do not commit `.env`, tokens, images, function bundles, or generated deployment data. Deployments need a new build after environment changes.
+
+The curated photo set is uploaded to the `sakib-portfolio/curated` Cloudinary folder. `src/media-seed.json` contains public asset metadata only. It is registered in MongoDB once, so deleting an unused library asset does not cause it to reappear after a cold start. Deleting an asset referenced by either its Cloudinary URL or its original local path is blocked until the content is updated.

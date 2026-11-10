@@ -13,6 +13,9 @@ const fieldSchema = (value) =>
     : typeof value === "number"
       ? z.number().finite().nonnegative()
       : text;
+const emptyCollectionSamples = {
+  linkedinPosts: { text: "", date: "", url: "", embed: "", img: "" },
+};
 const collections = Object.fromEntries(
   Object.entries(DEFAULTS)
     .filter(([, value]) => Array.isArray(value))
@@ -23,11 +26,14 @@ const collections = Object.fromEntries(
           z
             .object({
               ...Object.fromEntries(
-                Object.entries(items[0])
+                Object.entries(items[0] || emptyCollectionSamples[key] || {})
                   .filter(([field]) => field !== "id")
                   .map(([field, value]) => [field, fieldSchema(value)]),
               ),
               id: z.union([z.string().max(100), z.number()]).optional(),
+              ...(key === "gallery"
+                ? { category: text.optional(), description: text.optional() }
+                : {}),
               shots: z.array(text).max(30).optional(),
               purpose: text.optional(),
               previewPaths: z.array(z.string().max(300)).max(3).optional(),
