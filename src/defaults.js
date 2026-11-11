@@ -558,6 +558,27 @@ export const DEFAULTS = {
       previewPaths: ["/", "/#explore", "/#learn-together"],
       shots: [],
     },
+    {
+      id: 5,
+      title: "Zen Zephyr",
+      sub: "A shared space for ideas, questions, and conversations.",
+      category: "Community & discussion",
+      desc: "A full-stack community forum with topic-based posts, voting, comments, Firebase sign-in, and separate member and administrator dashboards.",
+      purpose:
+        "Built to bring people together around shared interests, make discussions easy to explore, and give administrators tools to manage users, announcements, and reported comments.",
+      tech: "React, Node.js, Express, MongoDB, Tailwind CSS, Firebase, TanStack Query",
+      img: "/previews/5-0.webp",
+      live: "https://zen-zephyr.web.app",
+      repo: "https://github.com/Hossain-sakib/Zen-zephyr--client-",
+      features: [
+        "Topic-based discussions with post details, comments, and voting",
+        "Email and Google sign-in with member profiles and badges",
+        "Personal dashboard for creating and managing posts",
+        "Administrator tools for users, announcements, and reported comments",
+      ],
+      previewPaths: ["/", "/signin", "/signup"],
+      shots: [],
+    },
   ],
   experience: [
     {
