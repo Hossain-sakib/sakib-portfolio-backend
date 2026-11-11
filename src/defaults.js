@@ -115,7 +115,7 @@ export const DEFAULTS = {
     {
       icon: "fiverr",
       name: "Fiverr",
-      url: "",
+      url: "https://www.fiverr.com/users/hossainsakib/",
       blurb:
         "Gig SEO, profile optimisation, pricing and positioning to win consistent orders.",
     },
@@ -609,7 +609,7 @@ export const LINKS = {
   linkedin: "https://www.linkedin.com/in/hossain-sakib-x/",
   github: "https://github.com/Hossain-sakib/",
   facebook: "https://www.facebook.com/hossain.sakib.x/",
-  fiverr: "",
+  fiverr: "https://www.fiverr.com/users/hossainsakib/",
   upwork: "",
   freelancer: "",
 };
