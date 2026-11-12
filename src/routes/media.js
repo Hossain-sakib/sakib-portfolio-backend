@@ -95,7 +95,7 @@ mediaRouter.delete("/media/:id", async (req, res) => {
       409,
       "This image is used in your content. Remove its references and publish before deleting.",
     );
-  await storage().uploader.destroy(row.publicId);
+  await storage().uploader.destroy(row.publicId, { invalidate: true });
   await req.db.collection("media").deleteOne({ _id: row._id });
   res.sendStatus(204);
 });

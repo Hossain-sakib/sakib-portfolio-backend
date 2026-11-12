@@ -40,6 +40,8 @@ Atlas must permit connections from Netlify. Standard Netlify Functions do not pr
 
 ## API
 
+Authenticated account management: `PUT /api/admin/password` verifies the current password, changes the scrypt hash, invalidates other sessions, and returns a replacement session token.
+
 Public: `GET /api/health`, `GET /api/content`, `POST /api/contact`, `POST /api/auth/login`, `POST /api/auth/setup`.
 
 All `/api/admin/*` routes require a bearer session. Content updates and CRM edits include the current version; stale writes return 409. Images are decoded, resized, stripped of metadata, converted to WebP, and uploaded server-side. SVG/HTML uploads are rejected. An image referenced by draft or published content cannot be deleted.
@@ -55,4 +57,6 @@ npm audit --omit=dev
 
 Tests cover password hashing, input/URL validation, every protected resource, malformed requests, and security headers. Configure Atlas backups, monitor function failures, rotate credentials shared outside secure settings, and review dependency updates regularly. Do not commit `.env`, tokens, images, function bundles, or generated deployment data. Deployments need a new build after environment changes.
 
-The curated photo set is uploaded to the `sakib-portfolio/curated` Cloudinary folder. `src/media-seed.json` contains public asset metadata only. It is registered in MongoDB once, so deleting an unused library asset does not cause it to reappear after a cold start. Deleting an asset referenced by either its Cloudinary URL or its original local path is blocked until the content is updated.
+The curated photo set, original photo archive, and project covers are uploaded to Cloudinary (36 assets total). `src/media-seed.json` contains public asset metadata only. It is registered in MongoDB once, so deleting an unused library asset does not cause it to reappear after a cold start. Deleting an asset referenced by either its Cloudinary URL or its original local path is blocked until the content is updated.
+
+The Netlify adapter uses serverless-http 4 so Express can parse both plain and base64-encoded JSON bodies. A regression test exercises that deployed request format, including validation and storage.

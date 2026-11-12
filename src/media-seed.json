@@ -6,7 +6,8 @@
     "publicId": "sakib-portfolio/curated/award-presentation",
     "size": 142036,
     "mime": "image/webp",
-    "created_at": "2026-11-10T21:07:18.643Z"
+    "created_at": "2026-11-10T21:07:18.643Z",
+    "localPath": "/images/award-presentation.webp"
   },
   {
     "_id": "18628c96-4414-40da-9104-6da02bd8d9ff",
@@ -15,7 +16,8 @@
     "publicId": "sakib-portfolio/curated/office-team",
     "size": 91080,
     "mime": "image/webp",
-    "created_at": "2026-11-10T21:07:19.988Z"
+    "created_at": "2026-11-10T21:07:19.988Z",
+    "localPath": "/images/office-team.webp"
   },
   {
     "_id": "599b8c2d-8ac3-4df9-82df-d0b8ba5816b6",
@@ -24,7 +26,8 @@
     "publicId": "sakib-portfolio/curated/sakib-about",
     "size": 32900,
     "mime": "image/webp",
-    "created_at": "2026-11-10T21:07:21.350Z"
+    "created_at": "2026-11-10T21:07:21.350Z",
+    "localPath": "/images/sakib-about.webp"
   },
   {
     "_id": "1dd09474-a27c-44a6-bd07-6e2a28b59759",
@@ -33,7 +36,8 @@
     "publicId": "sakib-portfolio/curated/sakib-portrait",
     "size": 52552,
     "mime": "image/webp",
-    "created_at": "2026-11-10T21:07:22.596Z"
+    "created_at": "2026-11-10T21:07:22.596Z",
+    "localPath": "/images/sakib-portrait.webp"
   },
   {
     "_id": "5fce4658-7b83-42b4-af8f-d0d4f24d808a",
@@ -42,7 +46,8 @@
     "publicId": "sakib-portfolio/curated/sales-excellence-q3-2025",
     "size": 49374,
     "mime": "image/webp",
-    "created_at": "2026-11-10T21:07:23.902Z"
+    "created_at": "2026-11-10T21:07:23.902Z",
+    "localPath": "/images/sales-excellence-q3-2025.webp"
   },
   {
     "_id": "62a6bafb-4135-477b-9a2c-86dfb8b8ab25",
@@ -51,7 +56,8 @@
     "publicId": "sakib-portfolio/curated/sales-excellence-q4-2025",
     "size": 58324,
     "mime": "image/webp",
-    "created_at": "2026-11-10T21:07:25.216Z"
+    "created_at": "2026-11-10T21:07:25.216Z",
+    "localPath": "/images/sales-excellence-q4-2025.webp"
   },
   {
     "_id": "d9300c9c-aa17-4b00-a3d7-4a15276aa67a",
@@ -60,7 +66,8 @@
     "publicId": "sakib-portfolio/curated/speaking-with-the-team",
     "size": 69170,
     "mime": "image/webp",
-    "created_at": "2026-11-10T21:07:26.143Z"
+    "created_at": "2026-11-10T21:07:26.143Z",
+    "localPath": "/images/speaking-with-the-team.webp"
   },
   {
     "_id": "cfa81436-3e83-46b0-adcd-02adf61720fc",
@@ -69,7 +76,8 @@
     "publicId": "sakib-portfolio/curated/team-dinner",
     "size": 246202,
     "mime": "image/webp",
-    "created_at": "2026-11-10T21:07:27.552Z"
+    "created_at": "2026-11-10T21:07:27.552Z",
+    "localPath": "/images/team-dinner.webp"
   },
   {
     "_id": "a05fbd9d-8e9c-49f0-a770-42c62ffc278d",
@@ -78,7 +86,8 @@
     "publicId": "sakib-portfolio/curated/team-discussion",
     "size": 48932,
     "mime": "image/webp",
-    "created_at": "2026-11-10T21:07:28.240Z"
+    "created_at": "2026-11-10T21:07:28.240Z",
+    "localPath": "/images/team-discussion.webp"
   },
   {
     "_id": "18b56446-3c8d-4314-8ff4-76bc060eec7b",
@@ -87,7 +96,8 @@
     "publicId": "sakib-portfolio/curated/team-gathering",
     "size": 243084,
     "mime": "image/webp",
-    "created_at": "2026-11-10T21:07:29.508Z"
+    "created_at": "2026-11-10T21:07:29.508Z",
+    "localPath": "/images/team-gathering.webp"
   },
   {
     "_id": "86307a87-afd2-4ba1-a5da-43c3b802d92e",
@@ -96,7 +106,8 @@
     "publicId": "sakib-portfolio/curated/team-outing",
     "size": 153848,
     "mime": "image/webp",
-    "created_at": "2026-11-10T21:07:30.300Z"
+    "created_at": "2026-11-10T21:07:30.300Z",
+    "localPath": "/images/team-outing.webp"
   },
   {
     "_id": "d4d50be5-13cf-4013-81aa-669a2257f365",
@@ -105,6 +116,228 @@
     "publicId": "sakib-portfolio/curated/working-together",
     "size": 109042,
     "mime": "image/webp",
-    "created_at": "2026-11-10T21:07:31.448Z"
+    "created_at": "2026-11-10T21:07:31.448Z",
+    "localPath": "/images/working-together.webp"
+  },
+  {
+    "_id": "12a35f37-1dc1-4e19-90d0-366660aac2a6",
+    "name": "1-0.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794413163/sakib-portfolio/projects/1-0.webp",
+    "publicId": "sakib-portfolio/projects/1-0",
+    "size": 315314,
+    "mime": "image/webp",
+    "created_at": "2026-11-11T16:06:03Z",
+    "localPath": "/previews/1-0.webp"
+  },
+  {
+    "_id": "3a324d60-3a73-412d-918b-75b753b86e15",
+    "name": "2-0.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794413166/sakib-portfolio/projects/2-0.webp",
+    "publicId": "sakib-portfolio/projects/2-0",
+    "size": 52144,
+    "mime": "image/webp",
+    "created_at": "2026-11-11T16:06:06Z",
+    "localPath": "/previews/2-0.webp"
+  },
+  {
+    "_id": "0824df9b-7531-4163-818e-dbda15791f0f",
+    "name": "3-0.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794413168/sakib-portfolio/projects/3-0.webp",
+    "publicId": "sakib-portfolio/projects/3-0",
+    "size": 125744,
+    "mime": "image/webp",
+    "created_at": "2026-11-11T16:06:08Z",
+    "localPath": "/previews/3-0.webp"
+  },
+  {
+    "_id": "a4703191-2695-4462-9212-b734fd5f2028",
+    "name": "4-0.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794413169/sakib-portfolio/projects/4-0.webp",
+    "publicId": "sakib-portfolio/projects/4-0",
+    "size": 138972,
+    "mime": "image/webp",
+    "created_at": "2026-11-11T16:06:09Z",
+    "localPath": "/previews/4-0.webp"
+  },
+  {
+    "_id": "2ee4d5a8-c9a7-404c-b266-df5448b37e5f",
+    "name": "5-0.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794413170/sakib-portfolio/projects/5-0.webp",
+    "publicId": "sakib-portfolio/projects/5-0",
+    "size": 38588,
+    "mime": "image/webp",
+    "created_at": "2026-11-11T16:06:10Z",
+    "localPath": "/previews/5-0.webp"
+  },
+  {
+    "_id": "26f7d23b-c52d-4753-9894-ca9a21c10272",
+    "name": "recognition-presentation.jpg",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474553/sakib-portfolio/ybi2fatjxiuzdkhxtrjz.webp",
+    "publicId": "sakib-portfolio/ybi2fatjxiuzdkhxtrjz",
+    "size": 76420,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:09:14.295Z"
+  },
+  {
+    "_id": "2b77f1f2-7195-4d68-953c-df779ab45d8b",
+    "name": "professional-activity-01.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474858/sakib-portfolio/k2xpijx0xuajabdlqbf5.webp",
+    "publicId": "sakib-portfolio/k2xpijx0xuajabdlqbf5",
+    "size": 304782,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:14:19.348Z"
+  },
+  {
+    "_id": "73f50fbf-57df-4da4-8f28-103a53051af8",
+    "name": "professional-activity-02.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474864/sakib-portfolio/l11lskofdf16ue42opse.webp",
+    "publicId": "sakib-portfolio/l11lskofdf16ue42opse",
+    "size": 576616,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:14:24.827Z"
+  },
+  {
+    "_id": "52ca69ac-52a5-4d0b-bf1c-447b380759e5",
+    "name": "professional-activity-03.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474870/sakib-portfolio/eqmb13qfmodgvyyi3dff.webp",
+    "publicId": "sakib-portfolio/eqmb13qfmodgvyyi3dff",
+    "size": 273636,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:14:30.669Z"
+  },
+  {
+    "_id": "06d35df4-e7d6-415f-8855-246c5a6d0c10",
+    "name": "professional-activity-05.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474874/sakib-portfolio/cnbhysv1yjym3x9pxbcc.webp",
+    "publicId": "sakib-portfolio/cnbhysv1yjym3x9pxbcc",
+    "size": 287402,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:14:35.164Z"
+  },
+  {
+    "_id": "5de4b2ac-92c3-405c-ab91-263c5c47768b",
+    "name": "professional-activity-08.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474877/sakib-portfolio/qgnwehmd0qso7avue8ca.webp",
+    "publicId": "sakib-portfolio/qgnwehmd0qso7avue8ca",
+    "size": 170262,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:14:37.524Z"
+  },
+  {
+    "_id": "92a24ca7-26ec-4d7c-9383-7b4c38977481",
+    "name": "professional-activity-12.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474879/sakib-portfolio/fmyiplyqyatlbqsxfcvu.webp",
+    "publicId": "sakib-portfolio/fmyiplyqyatlbqsxfcvu",
+    "size": 52710,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:14:39.660Z"
+  },
+  {
+    "_id": "2400f85e-3a08-4521-a95f-7f506f8bb84c",
+    "name": "professional-activity-13.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474886/sakib-portfolio/r06x9a4wmmn5vhqdhma4.webp",
+    "publicId": "sakib-portfolio/r06x9a4wmmn5vhqdhma4",
+    "size": 37090,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:14:46.954Z"
+  },
+  {
+    "_id": "d30c893d-f85c-4213-ad20-22fe69449ede",
+    "name": "professional-activity-14.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474888/sakib-portfolio/zsvcsxyjp7bmcwrcgikj.webp",
+    "publicId": "sakib-portfolio/zsvcsxyjp7bmcwrcgikj",
+    "size": 67824,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:14:49.199Z"
+  },
+  {
+    "_id": "f139d3cb-ae43-450b-80cd-39ba044f53c0",
+    "name": "professional-activity-15.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474891/sakib-portfolio/irdep4ex78itzen36jt5.webp",
+    "publicId": "sakib-portfolio/irdep4ex78itzen36jt5",
+    "size": 58738,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:14:51.364Z"
+  },
+  {
+    "_id": "e841d49a-2b03-4e4c-80a2-913330b33f06",
+    "name": "professional-activity-17.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474893/sakib-portfolio/ouhnrkejejaarmmziye0.webp",
+    "publicId": "sakib-portfolio/ouhnrkejejaarmmziye0",
+    "size": 52020,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:14:53.749Z"
+  },
+  {
+    "_id": "e5e3743f-e012-476d-a276-24b0e02ee696",
+    "name": "professional-activity-18.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474895/sakib-portfolio/sbfcqfidfhw5r7st0vtn.webp",
+    "publicId": "sakib-portfolio/sbfcqfidfhw5r7st0vtn",
+    "size": 127034,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:14:55.855Z"
+  },
+  {
+    "_id": "ef84e449-1dd8-450d-a61d-bcb2b5b0298d",
+    "name": "professional-activity-21.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474897/sakib-portfolio/sbpmculgvhmhwqi4mvuf.webp",
+    "publicId": "sakib-portfolio/sbpmculgvhmhwqi4mvuf",
+    "size": 41814,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:14:57.755Z"
+  },
+  {
+    "_id": "6749e3f1-c6f2-48f9-8cf8-ccd195b32fff",
+    "name": "professional-activity-24.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474900/sakib-portfolio/uv5hhptzsurhb1yno91a.webp",
+    "publicId": "sakib-portfolio/uv5hhptzsurhb1yno91a",
+    "size": 166760,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:15:01.199Z"
+  },
+  {
+    "_id": "a559e5a9-60cf-4915-b928-0f46aff5fa83",
+    "name": "professional-activity-25.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474904/sakib-portfolio/adglq8ay2anozye1s4zq.webp",
+    "publicId": "sakib-portfolio/adglq8ay2anozye1s4zq",
+    "size": 149242,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:15:04.886Z"
+  },
+  {
+    "_id": "dab9cde5-ac18-48ca-8703-dc06c6578ffc",
+    "name": "professional-activity-26.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474906/sakib-portfolio/pt5puiqz6cfivovup1tw.webp",
+    "publicId": "sakib-portfolio/pt5puiqz6cfivovup1tw",
+    "size": 60048,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:15:07.506Z"
+  },
+  {
+    "_id": "c2e9906a-c39d-45e9-a0cf-1d7ac7d90ce3",
+    "name": "professional-activity-27.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474910/sakib-portfolio/etvplkzcvli2lqqrfqn9.webp",
+    "publicId": "sakib-portfolio/etvplkzcvli2lqqrfqn9",
+    "size": 292970,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:15:10.909Z"
+  },
+  {
+    "_id": "c4fc3eee-f3ab-471a-a6d4-e67fc838d032",
+    "name": "professional-activity-29.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474912/sakib-portfolio/m1bwjaron5rvktfz9xbt.webp",
+    "publicId": "sakib-portfolio/m1bwjaron5rvktfz9xbt",
+    "size": 173158,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:15:13.137Z"
+  },
+  {
+    "_id": "876d484c-57d4-44ba-a0c0-ca80f64c529e",
+    "name": "professional-activity-31.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794474914/sakib-portfolio/ca931gp2ubrvl2rjwwwx.webp",
+    "publicId": "sakib-portfolio/ca931gp2ubrvl2rjwwwx",
+    "size": 40658,
+    "mime": "image/webp",
+    "created_at": "2026-11-12T09:15:15.272Z"
   }
 ]

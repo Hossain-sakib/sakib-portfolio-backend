@@ -19,7 +19,7 @@
     "helmet": "^8.1.0",
     "mongodb": "^6.21.0",
     "multer": "^2.0.2",
-    "serverless-http": "^3.2.0",
+    "serverless-http": "^4.0.0",
     "sharp": "^0.35.5",
     "zod": "^4.6.7"
   }

@@ -76,6 +76,7 @@ test("every admin resource rejects unauthenticated mutations", async () => {
     for (const [method, path] of [
       ["GET", "content"],
       ["PUT", "content"],
+      ["PUT", "password"],
       ["POST", "publish"],
       ["GET", "messages"],
       ["DELETE", "messages/x"],

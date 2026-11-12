@@ -6,9 +6,12 @@ export const DEFAULTS = {
     availability: "Open to new opportunities",
     tagline:
       "I bring in clients and understand how to build what they need. B2B sales strategy backed by real web development experience.",
-    photo: "/images/sakib-portrait.webp",
-    photo2: "/images/sakib-about.webp",
-    ctaImage: "/images/office-team.webp",
+    photo:
+      "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344842/sakib-portfolio/curated/sakib-portrait.webp",
+    photo2:
+      "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344840/sakib-portfolio/curated/sakib-about.webp",
+    ctaImage:
+      "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344839/sakib-portfolio/curated/office-team.webp",
     banner: "",
     about:
       "Business Development & Tech Sales Specialist with a background in Web Development. I understand both the technical and business sides of digital projects, which lets me turn a client's idea into a clear proposal and then into a working website.",
@@ -374,14 +377,14 @@ export const DEFAULTS = {
       title: "Sales Excellence Award",
       when: "Q4 2025",
       org: "SardarIT Solutions",
-      img: "/images/sales-excellence-q4-2025.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344844/sakib-portfolio/curated/sales-excellence-q4-2025.webp",
     },
     {
       id: 2,
       title: "Sales Excellence Award",
       when: "Q3 2025",
       org: "SardarIT Solutions",
-      img: "/images/sales-excellence-q3-2025.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344843/sakib-portfolio/curated/sales-excellence-q3-2025.webp",
     },
     {
       id: 3,
@@ -417,7 +420,7 @@ export const DEFAULTS = {
   gallery: [
     {
       id: 1,
-      img: "/images/speaking-with-the-team.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344845/sakib-portfolio/curated/speaking-with-the-team.webp",
       caption: "Speaking with the team",
       category: "Speaking",
       description:
@@ -425,49 +428,49 @@ export const DEFAULTS = {
     },
     {
       id: 2,
-      img: "/images/team-discussion.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344847/sakib-portfolio/curated/team-discussion.webp",
       caption: "Conversations that move work forward",
       category: "Collaboration",
       description: "A focused discussion around the table with colleagues.",
     },
     {
       id: 3,
-      img: "/images/award-presentation.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344838/sakib-portfolio/curated/award-presentation.webp",
       caption: "Celebrating professional milestones",
       category: "Recognition",
       description: "A moment of recognition shared with colleagues.",
     },
     {
       id: 4,
-      img: "/images/office-team.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344839/sakib-portfolio/curated/office-team.webp",
       caption: "The people behind the work",
       category: "Collaboration",
       description: "Coming together with the team in the office.",
     },
     {
       id: 5,
-      img: "/images/team-gathering.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344848/sakib-portfolio/curated/team-gathering.webp",
       caption: "Together at the workplace",
       category: "Collaboration",
       description: "A team gathering and a shared moment at the office.",
     },
     {
       id: 6,
-      img: "/images/team-dinner.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344847/sakib-portfolio/curated/team-dinner.webp",
       caption: "Good conversations beyond the desk",
       category: "Team life",
       description: "Spending time with colleagues over a shared meal.",
     },
     {
       id: 7,
-      img: "/images/team-outing.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344849/sakib-portfolio/curated/team-outing.webp",
       caption: "A change of scene, together",
       category: "Team life",
       description: "Time outside the office with the team.",
     },
     {
       id: 8,
-      img: "/images/working-together.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344850/sakib-portfolio/curated/working-together.webp",
       caption: "Everyday teamwork",
       category: "Collaboration",
       description: "A candid moment with colleagues at the workspace.",
@@ -483,7 +486,7 @@ export const DEFAULTS = {
       purpose:
         "Built to give a digital studio a public presence and a practical operations workspace: showcase services, collect inquiries, manage content, and coordinate client work.",
       tech: "React, Node.js, Express, MongoDB, Tailwind CSS, Firebase",
-      img: "/previews/1-0.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794413163/sakib-portfolio/projects/1-0.webp",
       live: "https://cosmobit-labs-studio.netlify.app",
       repo: "https://github.com/Hossain-sakib/cosmobit-lab-client",
       features: [
@@ -504,7 +507,7 @@ export const DEFAULTS = {
       purpose:
         "Developed to help a property company present its projects clearly, guide prospective buyers through available properties, and manage website content and inquiries from a central CMS.",
       tech: "React, TypeScript, Vite, Tailwind CSS, Node.js, Express",
-      img: "/previews/2-0.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794413166/sakib-portfolio/projects/2-0.webp",
       live: "https://hiroshimabd.com",
       repo: "https://github.com/Hossain-sakib/hiroshima-properties-frontend",
       features: [
@@ -525,7 +528,7 @@ export const DEFAULTS = {
       purpose:
         "Built to explore a complete shopping flow: browse brands, discover products, sign in, and manage a personal cart. It also provides forms for maintaining product listings.",
       tech: "React, Node.js, Tailwind CSS, Firebase",
-      img: "/previews/3-0.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794413168/sakib-portfolio/projects/3-0.webp",
       live: "https://flavor-voyage.netlify.app",
       repo: "https://github.com/Hossain-sakib/FlavorVoyage---client",
       features: [
@@ -546,7 +549,7 @@ export const DEFAULTS = {
       purpose:
         "Developed to make collaborative learning practical by connecting assignment creation, submissions, and peer grading in one accessible web application.",
       tech: "React, Node.js, Express, MongoDB, Tailwind CSS, Firebase",
-      img: "/previews/4-0.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794413169/sakib-portfolio/projects/4-0.webp",
       live: "https://studybuddy-hub.netlify.app",
       repo: "https://github.com/Hossain-sakib/StudyBuddyHub-client",
       features: [
@@ -567,7 +570,7 @@ export const DEFAULTS = {
       purpose:
         "Built to bring people together around shared interests, make discussions easy to explore, and give administrators tools to manage users, announcements, and reported comments.",
       tech: "React, Node.js, Express, MongoDB, Tailwind CSS, Firebase, TanStack Query",
-      img: "/previews/5-0.webp",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794413170/sakib-portfolio/projects/5-0.webp",
       live: "https://zen-zephyr.web.app",
       repo: "https://github.com/Hossain-sakib/Zen-zephyr--client-",
       features: [
