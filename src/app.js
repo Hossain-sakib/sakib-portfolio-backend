@@ -56,10 +56,6 @@ export function createApp({ database = getDatabase } = {}) {
   app.get("/api/admin/session", (req, res) =>
     res.json({ authenticated: true }),
   );
-  app.post("/api/admin/logout", async (req, res) => {
-    await req.db.collection("sessions").deleteOne({ _id: req.sessionId });
-    res.sendStatus(204);
-  });
   app.use("/api/admin", contentRouter, crmRouter, mediaRouter, accountRouter);
   app.use("/api", (req, res) =>
     res.status(404).json({ error: "Endpoint not found." }),

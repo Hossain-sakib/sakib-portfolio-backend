@@ -18,6 +18,13 @@ export const DEFAULTS = {
     story:
       "I started as a web developer, building WordPress, WooCommerce and Elementor Pro sites directly with clients. Sitting in those conversations taught me that the best projects begin with understanding the business, not the tools. That led me into leading a mixed sales and development team, where I planned sales strategy, managed client communication and coordinated more than 150 projects across WordPress, Wix, Webflow, Go High Level and ClickFunnels. Today, as Business Development Executive, I focus on B2B lead generation, account-based prospecting and marketplace growth on Fiverr, Upwork and Freelancer.com, using AI tools and automation to make the whole sales workflow faster and more consistent.",
   },
+  seo: {
+    title: "Sakib Hossain | Tech Sales, Web & Digital Marketing",
+    description:
+      "Tech sales, business development, web development, and digital marketing by Md Sakib Hossain. Meta Ads, Google Ads, B2B lead generation, and marketplace growth.",
+    image:
+      "https://res.cloudinary.com/wiooqx7y/image/upload/v1794344842/sakib-portfolio/curated/sakib-portrait.webp",
+  },
   stats: [
     {
       prefix: "",
@@ -74,6 +81,11 @@ export const DEFAULTS = {
       icon: "cpu",
       title: "AI & automation",
       desc: "AI tools and workflow automation that speed up prospecting, follow-ups and reporting.",
+    },
+    {
+      icon: "marketing",
+      title: "Digital marketing",
+      desc: "Meta Ads and Google Ads campaign setup and management, audience targeting, ad copy, remarketing, and performance reporting aligned with your business goals.",
     },
   ],
   platforms: [
@@ -276,6 +288,18 @@ export const DEFAULTS = {
         "Problem Solving",
         "On-time Delivery",
         "Cross-functional Collaboration",
+      ],
+    },
+    {
+      group: "Digital Marketing",
+      items: [
+        "Meta Ads",
+        "Google Ads",
+        "Campaign Setup & Management",
+        "Audience Targeting",
+        "Remarketing",
+        "Ad Copywriting",
+        "Campaign Performance Reporting",
       ],
     },
   ],
