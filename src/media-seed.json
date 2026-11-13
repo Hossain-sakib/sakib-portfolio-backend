@@ -359,15 +359,6 @@
     "created_at": "2026-11-13T09:41:48.935Z"
   },
   {
-    "_id": "2f34f77d-5682-4960-9d84-6b036cbacdd1",
-    "name": "issuer-canva.webp",
-    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794562910/sakib-portfolio/ozztag5szmcnvf3kx584.webp",
-    "publicId": "sakib-portfolio/ozztag5szmcnvf3kx584",
-    "size": 1634,
-    "mime": "image/webp",
-    "created_at": "2026-11-13T09:41:50.723Z"
-  },
-  {
     "_id": "4650ede6-0bdb-42be-9f52-d2eb0b46feb6",
     "name": "issuer-grameenphone.webp",
     "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794562912/sakib-portfolio/azukvcez1psdbudmntux.webp",
@@ -420,5 +411,14 @@
     "size": 20636,
     "mime": "image/webp",
     "created_at": "2026-11-13T09:43:29.973Z"
+  },
+  {
+    "_id": "261157cf-5046-4c75-8321-06c2179e1b90",
+    "name": "issuer-canva.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794563808/sakib-portfolio/gh6scijnciwulblydebt.webp",
+    "publicId": "sakib-portfolio/gh6scijnciwulblydebt",
+    "size": 7144,
+    "mime": "image/webp",
+    "created_at": "2026-11-13T09:56:48.779Z"
   }
 ]
