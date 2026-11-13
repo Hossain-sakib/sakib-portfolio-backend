@@ -26,6 +26,25 @@ test("portfolio validation accepts the supplied content and rejects executable i
   assert.equal(
     contentSchema.safeParse({
       ...content,
+      works: content.works.map((w) => ({
+        ...w,
+        repo: "https://github.com/example/legacy",
+      })),
+    }).success,
+    true,
+  );
+  assert.equal(
+    contentSchema.safeParse({
+      ...content,
+      certifications: content.certifications.map(
+        ({ logo, ...credential }) => credential,
+      ),
+    }).success,
+    true,
+  );
+  assert.equal(
+    contentSchema.safeParse({
+      ...content,
       profile: { ...content.profile, photo: "javascript:alert(1)" },
     }).success,
     false,

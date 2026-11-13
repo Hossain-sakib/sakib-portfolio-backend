@@ -348,5 +348,77 @@
     "mime": "image/webp",
     "created_at": "2026-11-13T05:01:25.823Z",
     "_id": "5e9650b6-f16f-4d42-81fd-150ff211bb39"
+  },
+  {
+    "_id": "90de5d64-f7be-4e6e-a90c-c6a4dbf0f670",
+    "name": "issuer-cpanel.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794562908/sakib-portfolio/wvmgg2khxksueacmiavi.webp",
+    "publicId": "sakib-portfolio/wvmgg2khxksueacmiavi",
+    "size": 4052,
+    "mime": "image/webp",
+    "created_at": "2026-11-13T09:41:48.935Z"
+  },
+  {
+    "_id": "2f34f77d-5682-4960-9d84-6b036cbacdd1",
+    "name": "issuer-canva.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794562910/sakib-portfolio/ozztag5szmcnvf3kx584.webp",
+    "publicId": "sakib-portfolio/ozztag5szmcnvf3kx584",
+    "size": 1634,
+    "mime": "image/webp",
+    "created_at": "2026-11-13T09:41:50.723Z"
+  },
+  {
+    "_id": "4650ede6-0bdb-42be-9f52-d2eb0b46feb6",
+    "name": "issuer-grameenphone.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794562912/sakib-portfolio/azukvcez1psdbudmntux.webp",
+    "publicId": "sakib-portfolio/azukvcez1psdbudmntux",
+    "size": 10008,
+    "mime": "image/webp",
+    "created_at": "2026-11-13T09:41:52.358Z"
+  },
+  {
+    "_id": "e91cc347-2e90-428f-9dd7-c82be94a8a12",
+    "name": "issuer-programming-hero.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794562913/sakib-portfolio/yaa1xntxthugu7zxjlg8.webp",
+    "publicId": "sakib-portfolio/yaa1xntxthugu7zxjlg8",
+    "size": 2848,
+    "mime": "image/webp",
+    "created_at": "2026-11-13T09:41:54.034Z"
+  },
+  {
+    "_id": "a8bbe72a-858b-4b95-b4db-8e690de91341",
+    "name": "issuer-10-minute-school.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794562915/sakib-portfolio/g9bvla1reas5nmrohakm.webp",
+    "publicId": "sakib-portfolio/g9bvla1reas5nmrohakm",
+    "size": 1280,
+    "mime": "image/webp",
+    "created_at": "2026-11-13T09:41:55.442Z"
+  },
+  {
+    "_id": "394a2798-ea09-4ae1-bbd7-23f2d398dc0d",
+    "name": "issuer-unicef.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794562916/sakib-portfolio/bgjqn2k2r9wfzjd99uwp.webp",
+    "publicId": "sakib-portfolio/bgjqn2k2r9wfzjd99uwp",
+    "size": 3952,
+    "mime": "image/webp",
+    "created_at": "2026-11-13T09:41:56.877Z"
+  },
+  {
+    "_id": "8ae8cb1f-f94d-4b71-9eb2-8518a8ae5343",
+    "name": "issuer-atova.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794562919/sakib-portfolio/pkuubq5y1dabhsohjvbe.webp",
+    "publicId": "sakib-portfolio/pkuubq5y1dabhsohjvbe",
+    "size": 3068,
+    "mime": "image/webp",
+    "created_at": "2026-11-13T09:41:59.930Z"
+  },
+  {
+    "_id": "a0a91fa3-02a2-4e0c-bf8e-39fa8e1c183e",
+    "name": "issuer-think-robo.webp",
+    "url": "https://res.cloudinary.com/wiooqx7y/image/upload/v1794563009/sakib-portfolio/hakxrcktuvn6l9zdifqs.webp",
+    "publicId": "sakib-portfolio/hakxrcktuvn6l9zdifqs",
+    "size": 20636,
+    "mime": "image/webp",
+    "created_at": "2026-11-13T09:43:29.973Z"
   }
 ]

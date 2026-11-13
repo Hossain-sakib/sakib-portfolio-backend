@@ -31,6 +31,8 @@ const collections = Object.fromEntries(
                   .map(([field, value]) => [field, fieldSchema(value)]),
               ),
               id: z.union([z.string().max(100), z.number()]).optional(),
+              ...(key === "works" ? { repo: text.optional() } : {}),
+              ...(key === "certifications" ? { logo: text.optional() } : {}),
               ...(key === "gallery"
                 ? { category: text.optional(), description: text.optional() }
                 : {}),
