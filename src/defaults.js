@@ -570,8 +570,8 @@ export const DEFAULTS = {
       purpose:
         "Built to bring people together around shared interests, make discussions easy to explore, and give administrators tools to manage users, announcements, and reported comments.",
       tech: "React, Node.js, Express, MongoDB, Tailwind CSS, Firebase, TanStack Query",
-      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794413170/sakib-portfolio/projects/5-0.webp",
-      live: "https://zen-zephyr.web.app",
+      img: "https://res.cloudinary.com/wiooqx7y/image/upload/v1794546085/sakib-portfolio/vjj6xonhvmsgbobs2q4l.webp",
+      live: "https://zen-zephyr-social.netlify.app",
       repo: "https://github.com/Hossain-sakib/Zen-zephyr--client-",
       features: [
         "Topic-based discussions with post details, comments, and voting",
@@ -579,7 +579,7 @@ export const DEFAULTS = {
         "Personal dashboard for creating and managing posts",
         "Administrator tools for users, announcements, and reported comments",
       ],
-      previewPaths: ["/", "/signin", "/signup"],
+      previewPaths: ["/", "/explore", "/people"],
       shots: [],
     },
   ],
